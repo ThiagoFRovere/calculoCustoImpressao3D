@@ -1,0 +1,13 @@
+/Users/ticolouco/Projects/AulasCurso/Aula01/bin/Debug/netcoreapp3.1/Aula01.deps.json
+/Users/ticolouco/Projects/AulasCurso/Aula01/bin/Debug/netcoreapp3.1/Aula01.runtimeconfig.json
+/Users/ticolouco/Projects/AulasCurso/Aula01/bin/Debug/netcoreapp3.1/Aula01.runtimeconfig.dev.json
+/Users/ticolouco/Projects/AulasCurso/Aula01/bin/Debug/netcoreapp3.1/Aula01.dll
+/Users/ticolouco/Projects/AulasCurso/Aula01/bin/Debug/netcoreapp3.1/Aula01.pdb
+/Users/ticolouco/Projects/AulasCurso/Aula01/obj/Debug/netcoreapp3.1/Aula01.csproj.AssemblyReference.cache
+/Users/ticolouco/Projects/AulasCurso/Aula01/obj/Debug/netcoreapp3.1/Aula01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ticolouco/Projects/AulasCurso/Aula01/obj/Debug/netcoreapp3.1/Aula01.AssemblyInfoInputs.cache
+/Users/ticolouco/Projects/AulasCurso/Aula01/obj/Debug/netcoreapp3.1/Aula01.AssemblyInfo.cs
+/Users/ticolouco/Projects/AulasCurso/Aula01/obj/Debug/netcoreapp3.1/Aula01.csproj.CoreCompileInputs.cache
+/Users/ticolouco/Projects/AulasCurso/Aula01/obj/Debug/netcoreapp3.1/Aula01.dll
+/Users/ticolouco/Projects/AulasCurso/Aula01/obj/Debug/netcoreapp3.1/Aula01.pdb
+/Users/ticolouco/Projects/AulasCurso/Aula01/obj/Debug/netcoreapp3.1/Aula01.genruntimeconfig.cache
